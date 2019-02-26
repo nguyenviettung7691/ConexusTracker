@@ -1,6 +1,6 @@
 {
-  "name": "web",
-  "short_name": "web",
+  "name": "Conexus Tracker",
+  "short_name": "ConexusTracker",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

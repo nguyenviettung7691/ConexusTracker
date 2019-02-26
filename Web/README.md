@@ -1,8 +1,15 @@
 # web
 
+Initialized with Vue CLI 3.
+
 ## Project setup
 ```
 npm install
+```
+
+## Project dashboard
+```
+vue ui
 ```
 
 ### Compiles and hot-reloads for development
